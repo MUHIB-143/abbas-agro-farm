@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (update with actual domain)
+Sitemap: https://abbasagrofarm.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Disallow certain directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
